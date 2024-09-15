@@ -1,0 +1,196 @@
+{"level":30,"time":1726362598936,"pid":16348,"hostname":"DESKTOP-V2VMQLI","msg":"Validating config file and environment variables"}
+{"level":50,"time":1726362598941,"pid":16348,"hostname":"DESKTOP-V2VMQLI","msg":"env: MONGO_CONNECTION cannot be empty"}
+{"level":30,"time":1726362802929,"pid":15780,"hostname":"DESKTOP-V2VMQLI","msg":"Validating config file and environment variables"}
+{"level":50,"time":1726362802934,"pid":15780,"hostname":"DESKTOP-V2VMQLI","msg":"env: MONGO_CONNECTION cannot be empty"}
+{"level":30,"time":1726363414965,"pid":9136,"hostname":"DESKTOP-V2VMQLI","msg":"Validating config file and environment variables"}
+{"level":50,"time":1726363414971,"pid":9136,"hostname":"DESKTOP-V2VMQLI","msg":"env: MONGO_CONNECTION cannot be empty"}
+{"level":30,"time":1726363456800,"pid":2200,"hostname":"DESKTOP-V2VMQLI","msg":"Validating config file and environment variables"}
+{"level":50,"time":1726363456807,"pid":2200,"hostname":"DESKTOP-V2VMQLI","msg":"env: MONGO_CONNECTION cannot be empty"}
+{"level":30,"time":1726364019193,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1726364019203,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1726364019203,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1726364019455,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loading commands..."}
+{"level":20,"time":1726364019515,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1726364019518,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1726364019729,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1726364019774,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1726364019776,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1726364019778,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1726364019779,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1726364021265,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1726364021268,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1726364021270,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1726364021271,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1726364021281,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1726364021284,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1726364021287,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1726364021291,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1726364021293,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1726364021311,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1726364021312,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1726364021315,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1726364021319,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1726364021321,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1726364021325,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1726364021327,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1726364021329,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1726364021330,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1726364021332,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1726364021334,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1726364021336,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1726364021337,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1726364021338,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1726364021349,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1726364021350,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1726364021354,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1726364021356,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1726364021359,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1726364021361,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1726364021362,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1726364021363,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1726364021365,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1726364021366,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1726364021367,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1726364021370,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1726364021372,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1726364021375,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1726364021376,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1726364021379,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1726364021383,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1726364021385,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1726364021387,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1726364021389,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1726364021391,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1726364021392,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1726364021393,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1726364021398,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1726364021405,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1726364021406,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1726364021412,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1726364021413,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1726364021415,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1726364021416,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1726364021418,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1726364021419,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1726364021421,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1726364021422,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1726364021423,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1726364021424,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1726364021425,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1726364021428,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1726364021430,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1726364021431,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1726364021436,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1726364021438,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1726364021440,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1726364021441,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1726364021445,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1726364021451,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1726364021456,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1726364021458,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1726364021491,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 42 commands"}
+{"level":30,"time":1726364021491,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1726364021491,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loading contexts..."}
+{"level":30,"time":1726364021495,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1726364021495,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1726364021495,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loading events..."}
+{"level":30,"time":1726364021586,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1726364023209,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1726364023209,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1726364023968,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1726364030751,"pid":16288,"hostname":"DESKTOP-V2VMQLI","msg":"Logged in as Yumi Bot#3681! (1284622634100850758)"}
+{"level":50,"time":1726364030907,"pid":16288,"hostname":"DESKTOP-V2VMQLI","err":{"type":"MongoServerError","message":"auth required, correlationID = 17f546f06ef92a2ef15a5202","stack":"MongoServerError: auth required, correlationID = 17f546f06ef92a2ef15a5202\n    at Connection.onMessage (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:205:26)\n    at MessageStream.<anonymous> (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:64:60)\n    at MessageStream.emit (node:events:519:28)\n    at processIncomingData (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:117:16)\n    at MessageStream._write (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:564:12)\n    at _write (node:internal/streams/writable:493:10)\n    at Writable.write (node:internal/streams/writable:502:10)\n    at TLSSocket.ondata (node:internal/streams/readable:1007:22)\n    at TLSSocket.emit (node:events:519:28)","ok":0,"code":13,"codeName":"Unauthorized"},"msg":"Client Error: auth required, correlationID = 17f546f06ef92a2ef15a5202"}
+{"level":50,"time":1726364076484,"pid":16288,"hostname":"DESKTOP-V2VMQLI","err":{"type":"MongoServerError","message":"auth required, correlationID = 17f546fb0b7430aaf15a53c4","stack":"MongoServerError: auth required, correlationID = 17f546fb0b7430aaf15a53c4\n    at Connection.onMessage (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:205:26)\n    at MessageStream.<anonymous> (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:64:60)\n    at MessageStream.emit (node:events:519:28)\n    at processIncomingData (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:117:16)\n    at MessageStream._write (C:\\Users\\usuario\\Downloads\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:564:12)\n    at _write (node:internal/streams/writable:493:10)\n    at Writable.write (node:internal/streams/writable:502:10)\n    at TLSSocket.ondata (node:internal/streams/readable:1007:22)\n    at TLSSocket.emit (node:events:519:28)","ok":0,"code":13,"codeName":"Unauthorized"},"msg":"Client Error: auth required, correlationID = 17f546fb0b7430aaf15a53c4"}
+{"level":30,"time":1726364182522,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1726364182524,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1726364182524,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1726364182633,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loading commands..."}
+{"level":20,"time":1726364182668,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1726364182669,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1726364182779,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1726364182810,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1726364182811,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1726364182812,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1726364182814,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1726364183601,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1726364183605,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1726364183608,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1726364183610,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1726364183625,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1726364183629,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1726364183632,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1726364183636,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1726364183639,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1726364183656,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1726364183657,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1726364183659,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1726364183663,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1726364183664,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1726364183667,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1726364183668,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1726364183670,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1726364183671,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1726364183672,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1726364183673,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1726364183674,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1726364183675,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1726364183676,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1726364183680,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1726364183681,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1726364183683,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1726364183685,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1726364183687,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1726364183688,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1726364183689,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1726364183690,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1726364183691,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1726364183692,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1726364183693,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1726364183694,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1726364183696,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1726364183698,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1726364183699,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1726364183701,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1726364183703,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1726364183704,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1726364183706,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1726364183707,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1726364183708,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1726364183709,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1726364183710,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1726364183712,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1726364183715,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1726364183716,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1726364183720,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1726364183721,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1726364183723,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1726364183724,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1726364183724,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1726364183726,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1726364183727,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1726364183728,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1726364183729,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1726364183730,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1726364183731,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1726364183733,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1726364183733,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1726364183735,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1726364183738,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1726364183740,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1726364183741,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1726364183742,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1726364183745,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1726364183749,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1726364183752,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1726364183753,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1726364183779,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 42 commands"}
+{"level":30,"time":1726364183779,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1726364183779,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loading contexts..."}
+{"level":30,"time":1726364183781,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1726364183782,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1726364183782,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loading events..."}
+{"level":30,"time":1726364183854,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1726364184449,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1726364184449,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1726364186015,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1726364188124,"pid":4256,"hostname":"DESKTOP-V2VMQLI","msg":"Logged in as Yumi Bot#3681! (1284622634100850758)"}
